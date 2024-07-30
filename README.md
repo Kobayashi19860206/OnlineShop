@@ -30,7 +30,7 @@ You will need to have the following software installed on your system
 Clone the repository to your local machine
 
 ```
-git clone https://github.com/JaymesKat/online-shop.git
+git clone https://github.com/Kobayashi19860206/online-shop.git
 ```
 
 Navigate into root of repository
